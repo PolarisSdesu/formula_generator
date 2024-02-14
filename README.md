@@ -1,7 +1,7 @@
 # 沟槽公式生成器
 真是沟沟又槽槽又公公又式式又生生又成成又器器啊
 
-http://generate.polarissmusic.cn/
+https://generator.polarissmusic.cn/
 
 # 使い方
 单击“在此处输入内容...”
