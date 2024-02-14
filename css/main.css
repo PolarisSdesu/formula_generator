@@ -15,6 +15,14 @@ body {
     margin: auto;
 }
 
+.header-container{
+    background-color: var(--color);
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
+
 .content p, li{
     font-size: 14px;
     font-weight: normal;
@@ -25,10 +33,10 @@ body {
 }
 
 .header{
-    background-color: var(--color);
     display: flex;
     align-items: center;
     height: 60px;
+    width: 800px;
 }
 
 .header img{
