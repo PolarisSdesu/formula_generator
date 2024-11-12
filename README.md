@@ -1,9 +1,9 @@
 # 沟槽公式生成器
 真是沟沟又槽槽又公公又式式又生生又成成又器器啊
 
-https://generator.polarissmusic.cn/
+https://generator.polarissdesu.cn/
 
 # 使い方
-单击“在此处输入内容...”
+单击 “在此处输入内容...”
 输入一连串的句子或词语
 等待生成后复制即可
